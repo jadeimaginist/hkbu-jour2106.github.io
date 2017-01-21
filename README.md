@@ -10,11 +10,11 @@
 * Poon Tsz Fung: http://johnpoon.github.io
 * Student 6
 * Carmen Chan https://chlorella.github.io/
-* Student 8
+* Jade Li https://github.com/jadeimaginist
 * Student 9
 * Student 10
 * Student 11
-* Roy Tang: http://Roytangrb.github.io/
+* Student 12
 * Student 13
 * Student 14
 * Student 15
